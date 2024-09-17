@@ -1,0 +1,16 @@
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/HorizontalCompositionTop.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/Surrounded.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/VerticalCompositionLeft.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/store/Item.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/store/Purchase.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/Boxed.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/Empty.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/HorizontalCompositionCenter.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/Rectangle.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/store/StoreUtils.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/Line.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/store/BulkItem.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/blocks/AsciiBlock.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/store/Multiple.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/experiments/Blocks.java
+/home/tsymbalk/CSC207/Labs/Lab5/lab-subtype-polymorphism-maven/src/main/java/edu/grinnell/csc207/experiments/Store.java
